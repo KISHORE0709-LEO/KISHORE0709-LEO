@@ -106,12 +106,20 @@ A passionate frontend developer from India | Learning by building | Exploring te
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishore0709-leo&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KISHORE0709-LEO&margin-w=15&margin-h=15" />
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore0709-leo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KISHORE0709-LEO&layout=compact&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KISHORE0709-LEO&show_icons=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISHORE0709-LEO" />
 </p>
 
