@@ -112,6 +112,15 @@ A passionate frontend developer from India | Learning by building | Exploring te
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KISHORE0709-LEO&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=KISHORE0709-LEO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KISHORE0709-LEO&layout=compact&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KISHORE0709-LEO&show_icons=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISHORE0709-LEO" />
+</p>
+
+
