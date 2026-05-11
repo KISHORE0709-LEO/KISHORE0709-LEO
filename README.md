@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm M KISHORE</h1>
 <h3 align="center">
-A passionate frontend developer from India | Learning by building | Exploring tech that matters
+A passionate developer from India | Learning by building | Exploring tech that matters
 </h3>
 
 <!-- Profile Views -->
