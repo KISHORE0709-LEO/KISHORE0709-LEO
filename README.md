@@ -28,7 +28,7 @@ A passionate developer from India | Learning by building | Exploring tech that m
 - 🌱 Learning **DSA, Devops, Full-Stack Development & Applied Data Science**
 - 👨‍💻 Projects → [GitHub Repositories](https://github.com/KISHORE0709-LEO?tab=repositories)
 - 📝 Writing on → [Medium](https://medium.com/@kishoremurali0726)
-- 💬 Ask me about **Java, Python, DSA, DBMS & Hackathons**
+- 💬 Ask me about **Java, Python, DSA, DBMS and Hackathons**
 - 📫 Reach me → **kishoremurali0726@gmail.com**
 
 <br clear="right"/>
