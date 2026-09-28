@@ -71,58 +71,42 @@ My work spans the full engineering stack: **Backend Development → ML/AI System
 <table>
   <tr>
     <td valign="top" width="50%">
-
-### 🤖 AI & Machine Learning
-Machine Learning · Deep Learning · CNNs · LSTM · NLP · Computer Vision · Multimodal AI · Generative AI · AI Agents · Self-Supervised Learning · DINOv2 · K-Means Clustering · Classification · Feature Engineering · Model Evaluation · AWS Bedrock
-
+      <strong>🤖 AI &amp; Machine Learning</strong><br/>
+      <p>Deep Learning · CNNs · LSTM · NLP · Computer Vision · Multimodal AI · Generative AI · AI Agents · Self-Supervised Learning · DINOv2 · K-Means Clustering · Feature Engineering · Model Evaluation · AWS Bedrock</p>
     </td>
     <td valign="top" width="50%">
-
-### 📊 Data Science & Analytics
-Python for Data Science · Data Analysis · Exploratory Data Analysis · Data Preprocessing · Statistics · Business Analytics · SQL · Data Visualization · Apache Spark · Feature Engineering · Business Data Management
-
+      <strong>📊 Data Science &amp; Analytics</strong><br/>
+      <p>Data Analysis · EDA · Data Preprocessing · Statistics · Business Analytics · Data Visualization · Apache Spark · Feature Engineering · Business Data Management</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-
-### 💻 Software Engineering
-Python · Java · C · C++ · JavaScript · Data Structures & Algorithms · OOP · Dynamic Programming · Recursion · System Design Fundamentals · Software Architecture · Testing · Debugging
-
+      <strong>💻 Software Engineering</strong><br/>
+      <p>Python · Java · C · C++ · JavaScript · DSA · OOP · Dynamic Programming · System Design · Software Architecture · Testing · Debugging</p>
     </td>
     <td valign="top" width="50%">
-
-### 🌐 Backend & Web
-FastAPI · Django · Flask · Node.js · Express.js · REST APIs · Async Programming · React · HTML · CSS · API Development
-
+      <strong>🌐 Backend &amp; Web</strong><br/>
+      <p>FastAPI · Django · Flask · Node.js · Express.js · REST APIs · Async Programming · React · HTML · CSS</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-
-### ☁️ Cloud & AWS
-EC2 · S3 · Lambda · API Gateway · DynamoDB · Cognito · Bedrock · VPC · Subnets · Security Groups · IAM · Serverless Architecture · Cloud Architecture
-
+      <strong>☁️ Cloud &amp; AWS</strong><br/>
+      <p>EC2 · S3 · Lambda · API Gateway · DynamoDB · Cognito · Bedrock · VPC · Subnets · Security Groups · IAM · Serverless · Cloud-Native Architecture</p>
     </td>
     <td valign="top" width="50%">
-
-### ⚙️ DevOps & Infrastructure
-Docker · Kubernetes · Git · GitHub · Azure Repos · CI/CD · Maven · SonarQube · JUnit · Linux · Containerization · Cloud Deployment
-
+      <strong>⚙️ DevOps &amp; Infrastructure</strong><br/>
+      <p>Docker · Kubernetes · Git · GitHub · Azure Repos · CI/CD · Maven · SonarQube · JUnit · Linux · Containerization</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-
-### 🗄️ Databases & Data Infrastructure
-MySQL · PostgreSQL · MongoDB · Redis · Apache Solr · Apache Spark · SQL · Event-Driven Architecture · Message Queues
-
+      <strong>🗄️ Databases &amp; Data Infrastructure</strong><br/>
+      <p>MySQL · PostgreSQL · MongoDB · Redis · Apache Solr · Apache Spark · Event-Driven Architecture · Message Queues</p>
     </td>
     <td valign="top" width="50%">
-
-### 🔬 Research
-Healthcare AI · Judicial-Process Automation · Food Safety Intelligence · Legacy Systems Analysis · Multimodal AI · Machine Learning Research
-
+      <strong>🔬 Research Focus</strong><br/>
+      <p>Healthcare AI · Judicial-Process Automation · Food Safety Intelligence · Legacy Systems Analysis · Multimodal AI</p>
     </td>
   </tr>
 </table>
@@ -541,17 +525,17 @@ My research sits at the intersection of applied AI and real-world system design.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KISHORE0709-LEO&theme=algolia&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KISHORE0709-LEO&theme=algolia&margin-w=12&margin-h=12&no-frame=true&column=6" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KISHORE0709-LEO&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KISHORE0709-LEO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KISHORE0709-LEO&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KISHORE0709-LEO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISHORE0709-LEO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=KISHORE0709-LEO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
